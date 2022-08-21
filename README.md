@@ -35,10 +35,21 @@ A similar cutdown in time can be seen for analysis for the year 2018-
 ![2018 Initial](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/Initial_2018.PNG) ![2018 Refactored](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
-We did not stop at that thought. Using the [*InputBox()*] feature, we made the program User-interactive. 
-We even added buttons so Steve can _literally_ do his analysis with the click of a [button]!
-And if he feels like redoing it or moving on to the next one, all he needs to do is click the [Clear] button and he has a blank canvas to start over. 
+We did not stop at that thought. Using the [*InputBox()*](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/InputBox.PNG) feature, we made the program User-interactive. You will see this pop up message when you start your analysis: 
+
+![Popup](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/UserPopUpMsg.PNG)
+
+We even added buttons so Steve can _literally_ do his analysis with the click of a button!
+
+![Button](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/Buttons.png)
+
+And if he feels like redoing it or moving on to the next one, all he needs to do is click the Clear button and he has a blank canvas to start over. 
+
+![Clear](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/ClearButton.PNG)
 ---
+
+Now that we have seen how refactoring our intial code has improved our program, let us look into when this method is beneficial and why it is not always the right choice while coding. 
+
 #### Benefits of Refactoring code:
 1. Refactoring can improve the design of software
 2. Helps in the debugging process
