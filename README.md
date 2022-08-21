@@ -26,7 +26,7 @@ Notice that the presence of two loops, simultaneously.
 Now let us take a look at the same piece of code, rafactored-
 ![Refactored Code](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/RefactoredCode.PNG)
 
-Here, by introducing the tickerIndex and Output arrays for our Ticker Volume, Starting Price and Ending Price, we make it a smoother process in the background. 
+Here, by introducing the _tickerIndex_ and _Output arrays for our Ticker Volume, Starting Price and Ending Price_, we have allowed the code to run smoother and more efficiently. 
 
 This is clearly visible when we look at how long the same analysis takes when using our Initial Code and Refactored Code for the year 2017 - 
 ![2017 Initial](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Stock%20Analysis_Misc/Initial_2017.PNG) ![2017 Refactored](https://github.com/SoumyaAbraham/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
